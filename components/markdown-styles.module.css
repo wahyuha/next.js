@@ -9,6 +9,11 @@
   @apply my-6;
 }
 
+.markdown a {
+  color: #0c93e4;
+  text-decoration: underline;
+}
+
 .markdown ol {
   @apply list-decimal;
   display: block;
